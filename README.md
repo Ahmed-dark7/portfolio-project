@@ -1,4 +1,4 @@
-# this is a portfolio
+# this is a portfolio project
 
 I built to practice my skills in **HTML** , **CSS** and **BOOTSTRAP**.
 
